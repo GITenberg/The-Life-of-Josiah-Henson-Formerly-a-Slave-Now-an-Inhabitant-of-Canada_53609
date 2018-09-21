@@ -1,0 +1,38 @@
+_repo: The-Life-of-Josiah-Henson-Formerly-a-Slave-Now-an-Inhabitant-of-Canada_53609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henson, Josiah
+    birthdate: 1789
+    deathdate: 1883
+    gutenberg_agent_id: '45155'
+    url: http://www.gutenberg.org/2009/agents/45155
+  editor:
+    agent_name: Eliot, Samuel Atkins
+    alias: Eliot, S. A. (Samuel Atkins)
+    birthdate: 1798
+    deathdate: 1862
+    gutenberg_agent_id: '47410'
+    url: http://www.gutenberg.org/2009/agents/47410
+description: ''
+gutenberg_issued: '2016-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53609'
+  lccn: '11021827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fugitive slaves -- Canada -- Biography'
+- !lcsh 'Slaves -- United States -- Biography'
+- !lcsh 'Clergy -- Canada -- Biography'
+- !lcsh 'Fugitive slaves -- United States -- Biography'
+- !lcsh 'Henson, Josiah, 1789-1883'
+- !lcsh 'Blacks -- Canada -- Biography'
+- !lcc 'E300'
+- !lcsh 'African Americans -- Biography'
+- GITenberg
+title: The Life of Josiah Henson, Formerly a Slave, Now an Inhabitant of Canada
+url: http://www.gutenberg.org/ebooks/53609
